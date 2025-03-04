@@ -1,5 +1,5 @@
 {
-    "name": "HANDY",
+    "name": "pins sensor",
     "description": "",
     "dependencies": {
         "core": "*",
